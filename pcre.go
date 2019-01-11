@@ -50,7 +50,7 @@
 //
 // For details on the regular expression language implemented by this
 // package and the flags defined below, see the PCRE documentation.
-// http://www.pcre.org/pcre.txt
+// http://www.pcre.org/pcre2.txt
 package pcre2
 
 /*
